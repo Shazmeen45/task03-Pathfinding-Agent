@@ -28,7 +28,7 @@ The algorithms were tested on three maze configurations. Both algorithms found p
 
 ## Project Files
 - `Task3_Pathfinding_Agent.ipynb` — Python implementation
-- `Task3_Pathfinding_Report.pdf` — Project report
+- `project documentation task3.pdf` — Project report
 - `pathfinding_results.csv` — Algorithm comparison results
 - `astar_search_log.csv` — Search log
 - `astar_visualization.png` — Pathfinding visualization
